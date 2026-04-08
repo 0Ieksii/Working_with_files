@@ -12,13 +12,12 @@ This repository contains utility functions for reading, writing, and manipulatin
 - Search for words inside a file
 
 ## Project Structure
-
+```plaintext
 Working_with_files/
 │
 ├── text_tools.py       # Core utility functions for working with .txt files
 ├── demo.py             # Example usage and testing script
 └── README.md           # Project documentation
-
-
+```
 ## Usage
 Run `demo.py` to see examples of how the functions work.
