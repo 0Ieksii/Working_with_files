@@ -13,7 +13,11 @@ This repository contains utility functions for reading, writing, and manipulatin
 
 ## Project Structure
 
-text-tools/ │ ├── text_tools.py       # Core functions ├── demo.py             # Usage examples └── README.md           # Project description
+Working_with_files/
+│
+├── text_tools.py       # Core utility functions for working with .txt files
+├── demo.py             # Example usage and testing script
+└── README.md           # Project documentation
 
 
 ## Usage
