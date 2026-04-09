@@ -6,15 +6,17 @@ This repository contains utility functions for reading, writing, and manipulatin
 ## Features
 - Write numbers from 1 to N into a file
 - Read entire file content
-- Read specific lines using `seek()` and `readline()`
 - Count lines and characters in a file
+- Read specific lines
 - Merge multiple text files into one
 - Search for words inside a file
+- Copy file contetn to another file
 
 ## Project Structure
 ```plaintext
 Working_with_files/
 │
+├── txt.files           # Files needed to run the project
 ├── text_tools.py       # Core utility functions for working with .txt files
 ├── demo.py             # Example usage and testing script
 └── README.md           # Project documentation
