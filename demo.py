@@ -1,5 +1,5 @@
 import text_tools as tt
-import os
+
 
 def run_demo():
     print("=== Text Tools Project Demonstration ===")
